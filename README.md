@@ -47,6 +47,7 @@ Status / Dificuldade | Livro | Capítulo Atual | Colaborador(es)|
 :zzz::sunny:| DAMAS, Luis. **Linguagem C. 10ª Edição**. | 1 de ? | @exata0mente
 :zzz::sunny:|ASCENCIO, Ana Fernanda; CAMPOS, Edilene. **Fundamentos da Programação de Computadores. 3ª Edição**.| ? | @kauageorjuti
 :pencil::sun_behind_small_cloud:|MACHADO, Francis Berenger; MAIA, Luiz Paulo. **Arquitetura de sistemas operacionais**.| 1 de ? | @exata0mente @vitorrsbarbosa
+:heavy_check_mark::sun_behind_small_cloud:| MIZRAHI, Victorine Viviane **Treinamento em linguagem C++: módulo 2**.| 7 de 7 |@Victor-MedeirosLima
 :watch::sun_behind_small_cloud:| **C++ Black Book - Guia Completo para Resolução de Problemas** | ? |
 :watch::sun_behind_small_cloud:|THOMAS, David. **O Programador Pragmático: de aprendiz a mestre**.|?|
 :watch::sun_behind_rain_cloud:| SUDARSHAN, S.; SILBERSCHATZ, Abraham; KORTH, F. Henry. **Sistemas de Banco de Dados** | ? |
